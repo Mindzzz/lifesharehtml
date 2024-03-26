@@ -1,1 +1,1 @@
-#这是lifeshare的前端代码
+# 这是lifeshare的前端代码
